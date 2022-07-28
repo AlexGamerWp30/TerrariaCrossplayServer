@@ -1,0 +1,9 @@
+[07/28/22 17:52:06] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[07/28/22 17:52:06] [Server API] Verbose: 	Command line: "C:\Users\MyLaptop\Desktop\Terraria Server\TerrariaServer.exe" 
+[07/28/22 17:52:06] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[07/28/22 17:52:06] [Server API] Verbose: 	Mono: False
+[07/28/22 17:52:09] [Server API] Info: Plugin Crossplay v1.10.2 (by Moneylover3246) initiated.
+[07/28/22 17:52:14] [Server API] Info: Plugin TShock v4.5.17.0 (by The TShock Team) initiated.
+[07/28/22 17:59:33] [Server API] Error: ===================================================================================
+[07/28/22 17:59:33] [Server API] Error: An unhandled exception has occured in TSAPI, and a crash report will be generated
+[07/28/22 17:59:33] [Server API] Error: Generating a crash report, please wait...

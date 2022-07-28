@@ -1,0 +1,27 @@
+2022-07-28 17:52:14 - TextLog: INFO: TShock 4.5.17.0 (Volodymyr Oleksandrovych Zelenskyy) now running.
+2022-07-28 17:52:14 - TShock: INFO: AutoSave Enabled
+2022-07-28 17:52:14 - TShock: INFO: Backups Enabled
+2022-07-28 17:52:14 - TShock: INFO: Welcome to TShock for Terraria!
+2022-07-28 17:52:14 - TShock: INFO: TShock comes with no warranty & is free software.
+2022-07-28 17:52:14 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2022-07-28 17:54:52 - Utils: INFO: Broadcast: Saving world...
+2022-07-28 17:55:12 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2022-07-28 17:55:12 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2022-07-28 17:55:12 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2022-07-28 17:56:34 - Utils: INFO: Server executed: /help.
+2022-07-28 17:56:42 - TShock: INFO: Alex (192.168.100.6) from 'guest' group joined. (1/8)
+2022-07-28 17:56:42 - Utils: INFO: Broadcast: Alex has joined.
+2022-07-28 17:57:28 - Utils: INFO: Server executed: /help 2.
+2022-07-28 17:57:44 - Utils: INFO: Alex tried to execute /tp.
+2022-07-28 17:58:02 - Utils: INFO: Broadcast: Alex has left.
+2022-07-28 17:58:02 - TShock: INFO: Alex disconnected.
+2022-07-28 17:58:02 - Utils: INFO: Broadcast: Saving world...
+2022-07-28 17:58:03 - Utils: INFO: Broadcast: World saved.
+2022-07-28 17:58:03 - SaveManager: INFO: World saved at (C:\Users\MyLaptop\Documents\My Games\Terraria\Worlds\TerraServer.wld)
+2022-07-28 17:59:06 - Utils: INFO: Server executed: /help 1.
+2022-07-28 17:59:12 - Utils: INFO: Server executed: /help 2.
+2022-07-28 17:59:33 - TShock: INFO: Shutting down safely. To force shutdown, send SIGINT (CTRL + C) again.
+2022-07-28 17:59:33 - Utils: INFO: Broadcast: Saving world...
+2022-07-28 17:59:34 - Utils: INFO: Broadcast: World saved.
+2022-07-28 17:59:34 - SaveManager: INFO: World saved at (C:\Users\MyLaptop\Documents\My Games\Terraria\Worlds\TerraServer.wld)
+2022-07-28 17:59:34 - Utils: INFO: Broadcast: Server console interrupted!

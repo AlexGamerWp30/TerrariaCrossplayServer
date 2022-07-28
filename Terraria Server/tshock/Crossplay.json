@@ -1,0 +1,8 @@
+{
+  "Settings": {
+    "EnableJourneySupport": false,
+    "EnablePacketDebugging": false,
+    "FakeVersionEnabled": false,
+    "FakeVersion": 248
+  }
+}
